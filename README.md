@@ -12,4 +12,6 @@
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="mongodb" src="https://img.shields.io/badge/-mongodb-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="neo4j" src="https://img.shields.io/badge/-neo4j-13aa52?style=flat-square&logo=neo4j&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/-mysql-13aa52?style=flat-square&logo=mysql&logoColor=white" />
 </p>
