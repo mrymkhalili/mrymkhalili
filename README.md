@@ -3,7 +3,7 @@
   <img alt="react" src="https://img.shields.io/badge/-react-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="docker" src="https://img.shields.io/badge/-docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-python-46a2f1?style=flat-square&logo=python&logoColor=white" />
-  <img alt="c++" src="https://img.shields.io/badge/-c++-46a2f1?style=flat-square&logo=cpp&logoColor=white" />
+  <img alt="c++" src="https://img.shields.io/badge/-c++-46a2f1?style=flat-square&logo=c++&logoColor=white" />
   <img alt="c" src="https://img.shields.io/badge/-c-46a2f1?style=flat-square&logo=c&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-javascript-46a2f1?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-github_actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
