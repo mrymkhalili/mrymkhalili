@@ -1,7 +1,5 @@
 <p>welcome to my page! </br> i'm maryam. i recently graduated with cs degree and im a backend developer
 <p>
-  <img alt="react" src="https://img.shields.io/badge/-react-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="docker" src="https://img.shields.io/badge/-docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-python-46a2f1?style=flat-square&logo=python&logoColor=white" />
   <img alt="c++" src="https://img.shields.io/badge/-c++-46a2f1?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="c" src="https://img.shields.io/badge/-c-46a2f1?style=flat-square&logo=c&logoColor=white" />
@@ -14,4 +12,9 @@
   <img alt="mongodb" src="https://img.shields.io/badge/-mongodb-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="neo4j" src="https://img.shields.io/badge/-neo4j-13aa52?style=flat-square&logo=neo4j&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-mysql-13aa52?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="r" src="https://img.shields.io/badge/-r-13aa52?style=flat-square&logo=r&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/-react-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/-docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/-pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="numpy" src="https://img.shields.io/badge/-numpy-13aa52?style=flat-square&logo=numpy&logoColor=white" />
 </p>
