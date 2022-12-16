@@ -17,4 +17,5 @@
   <img alt="docker" src="https://img.shields.io/badge/-docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="pandas" src="https://img.shields.io/badge/-pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="numpy" src="https://img.shields.io/badge/-numpy-13aa52?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="jira" src="https://img.shields.io/badge/-jira-13aa52?style=flat-square&logo=jira&logoColor=white" />
 </p>
